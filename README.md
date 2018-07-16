@@ -11,8 +11,8 @@ This is an ordered list:
 This is an unordered list:
  - a point
  - another point
-  - subpoint 1
-  - subpoint 2
+   - subpoint 1
+   - subpoint 2
   [a link](https://pearsonlab.github.io) to a webpage, this is John's webpage
   use the `cd` command
   
