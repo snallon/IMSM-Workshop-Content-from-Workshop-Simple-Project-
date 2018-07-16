@@ -2,4 +2,4 @@
 foo<-'that'
 bar<-'this'
 
-foo+bar
+newvar<-foo+bar
