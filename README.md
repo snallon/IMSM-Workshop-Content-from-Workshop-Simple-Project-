@@ -9,10 +9,10 @@ This is an ordered list:
 1. second
 1. third
 This is an unordered list:
--a point
--another point
-  -subpoint 1
-  -subpoint 2
+ - a point
+ - another point
+  - subpoint 1
+  - subpoint 2
   [a link](https://pearsonlab.github.io) to a webpage, this is John's webpage
   use the `cd` command
   
